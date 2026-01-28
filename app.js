@@ -45,7 +45,7 @@ header {
   max-width: 800px;
   margin: 40px auto;
   overflow: hidden;
-}
+}  
 
 .carousel-images img {
   width: 100%;
